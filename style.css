@@ -1,14 +1,56 @@
+body{
+    font-family: 'Oswald', sans-serif !important;
+    
+}
 #footer{
     text-align: center;
     font-family: PT sans;
-    
+
 }
-.Contact
-#Navbar{
+.sm-items{
+    width: 100px;
+    height: 100px;
     text-align: center;
-    font-family: PT sans;
-    background-color: #ADD8E6
+}
+.item-headers{
+    text-align: center;
+}
+#NavBar{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+;
+    background-color: #3161a3 !important;
+    /*ADD8E6;*/
 }
 .TB{
     height:50px;
+}
+#greenpaint{
+    width: 250px;
+    height:350px;
+}
+#markers{
+    width: 250px;
+    height:350px;
+}
+#starnight{
+    width: 250px;
+    height:350px;
+}
+
+#Terry{
+    width: 200px;
+    height:180px;
+}
+#Riley{
+    width: 200px;
+    height: 180;
+}
+#Brown{
+    height: 200px;
+    width: 180;
+}
+#Jones{
+    width: 200px;
+    height: 180;
 }
